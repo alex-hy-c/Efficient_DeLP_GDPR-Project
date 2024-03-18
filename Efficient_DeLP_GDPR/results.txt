@@ -93,3 +93,23 @@ Query to Knowledge base: A(fitbit, user)
 NO 12596
 
 ---End of test-cases---
+--------Knowledge Base test-case: test.txt
+Query to Knowledge base: A(fitbit, user)
+UNDECIDED 18894
+
+---End of test-cases---
+--------Knowledge Base test-case: test.txt
+Query to Knowledge base: A(fitbit, user)
+UNDECIDED 25152
+
+---End of test-cases---
+--------Knowledge Base test-case: test.txt
+Query to Knowledge base: A(fitbit, user)
+YES 17819
+
+---End of test-cases---
+--------Knowledge Base test-case: test.txt
+Query to Knowledge base: A(fitbit, user)
+YES 67
+
+---End of test-cases---
